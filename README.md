@@ -1,0 +1,2 @@
+## Corrección de diagrama
+El diagrama de flujo de la subrutina **CLEAR** (página 6 del PDF) se encuentra mal. Para una mejor comprensión de la subrutina, subimos el diagrama correcto de la misma en esta carpeta, el mismo está bajo el nombre [subrut-CLEAR-diagram.png](https://github.com/Rafdal/itba-introcom-tp5/blob/main/subrut-CLEAR-diagram.png)
